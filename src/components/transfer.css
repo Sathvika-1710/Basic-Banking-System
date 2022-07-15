@@ -1,0 +1,21 @@
+.container{
+    
+  
+    margin-left: 6%;
+    border: 1px solid black;
+ 
+}
+
+.heading{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4em;
+    font-weight: 500;
+    color: rgb(52, 34, 156);
+
+
+}
+
+input{
+    width: 90%;
+}

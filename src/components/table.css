@@ -1,0 +1,32 @@
+.body{
+   font-size: medium;
+   
+}
+
+th, td {
+    border: 1px solid;
+  }
+  .table{
+    border: 2px solid;
+
+  }
+
+.table{
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.heading{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 500;
+    color: rgb(52, 34, 156);
+
+
+}
+
+#button{
+    margin-left: 12px;
+}
